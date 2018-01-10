@@ -1,7 +1,5 @@
-# TIJ4-code
-
-Downloading, installing and testing the Example code for Thinking in Java, 4th Edition
---------------------------------------------------------------------------------------
+Thinking in Java, 4th Edition: Downloading, installing and testing the Example code
+-----------------------------------------------------------------------------------
 
 Note that this book covers Java 5/6. The recent book [On Java 8](http://www.onjava8.com/)
 covers Java 8.
