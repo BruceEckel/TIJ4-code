@@ -1,5 +1,5 @@
-Thinking in Java, 4th Edition: Downloading, installing and testing the Example code
------------------------------------------------------------------------------------
+Thinking in Java, 4th Edition: Downloading, Installing and Testing the Code
+---------------------------------------------------------------------------
 
 Note that this book covers Java 5/6. The recent book [On Java 8](http://www.onjava8.com/)
 covers Java 8.
@@ -7,11 +7,11 @@ covers Java 8.
 1.  Download the code by pressing the green button you see towards the top if this page.
 
 2.  Create a directory in which to install the code. For these
-    instructions, we'll refer to this directory as `C:\\TIJ4\\code`.
+    instructions, we'll refer to this directory as `C:\TIJ4\code`.
 
 3.  Using Winzip or some other zip utility, extract the zip file into
-    the `C:\\TIJ4\\code` directory. When you're done, you should see
-    several levels of directories, and in the `C:\\TIJ4\\code`
+    the `C:\TIJ4\code` directory. When you're done, you should see
+    several levels of directories, and in the `C:\TIJ4\code`
     directory, you'll see, among other things, subdirectories
     corresponding to the chapters in the book.
 
@@ -31,7 +31,7 @@ covers Java 8.
     Variables," look to see if there's already a "CLASSPATH" variable.
     If there is, double click and add
     ```
-    ;.;..;C:\\TIJ4\\code;
+    ;.;..;C:\TIJ4\code;
     ```
     to the end of the current entry. If there is no "CLASSPATH"
     variable, click the "New" button and enter
@@ -40,7 +40,7 @@ covers Java 8.
     ```
     In the "Variable name" box, and
     ```
-    .;..;C:\\TIJ4\\code;
+    .;..;C:\TIJ4\code;
     ```
     In the "Variable value" box, then click "OK". To verify that your
     classpath has been set, start a command prompt (see below), then
@@ -58,16 +58,16 @@ covers Java 8.
     compile a file called `MyProgram.java`, you type `javac
     MyProgram.java`.
 
-8.  Start a command prompt in the `C:\\TIJ4\\code` directory. To do
+8.  Start a command prompt in the `C:\TIJ4\code` directory. To do
     this in Windows, press the "Start" button, then select "Run" and
     type "cmd" and press "OK." then type
     ```
-    cd C:\\TIJ4\\code
+    cd C:\TIJ4\code
     ```
     into the resulting command window.
 
 9.  At this point you should be able to start a command prompt in
-    `C:\\TIJ4\\code` and type `ant build`, and the build should
+    `C:\TIJ4\code` and type `ant build`, and the build should
     successfully compile all the chapters up to the `io` chapter,
     where it will fail with an error message about a missing library.
     If you only need to work with chapters before `io` for now, this
@@ -103,8 +103,8 @@ covers Java 8.
     directions shown earlier on this page. However, *you must also
     include the name of the Jar file in the CLASSPATH entry*. For
     example, if you put the `xom.jar` file in a directory called
-    `C:\\TIJ4\\libraries\\`, then the associated CLASSPATH entry
-    would be `C:\\TIJ4\\libraries\\xom.jar;`.
+    `C:\TIJ4\libraries\`, then the associated CLASSPATH entry
+    would be `C:\TIJ4\libraries\xom.jar;`.
 
 13. This code is designed to work outside of IDEs. Because packages
     are not introduced until later chapters, and some of the fancier
