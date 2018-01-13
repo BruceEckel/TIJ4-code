@@ -4,7 +4,8 @@ Thinking in Java, 4th Edition: Downloading, Installing and Testing the Code
 Note that this book covers Java 5/6. The recent book [On Java 8](http://www.onjava8.com/)
 covers Java 8.
 
-1.  Download the code by pressing the green button you see towards the top if this page.
+1.  Download the code by pressing the green button you see towards the top if this page. After pressing the button,
+    select "Download Zip."
 
 2.  Create a directory in which to install the code. For these
     instructions, we'll refer to this directory as `C:\TIJ4\code`.
