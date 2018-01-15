@@ -4,6 +4,8 @@ Thinking in Java, 4th Edition: Downloading, Installing and Testing the Code
 Note that this book covers Java 5/6. The recent book [On Java 8](http://www.onjava8.com/)
 covers Java 8.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
 1.  Download the code by pressing the green button you see towards the top if this page. After pressing the button,
     select "Download Zip."
 
