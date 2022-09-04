@@ -3,7 +3,7 @@
 
 public class Parcel1 {
   class Contents {
-    private int i = 11;
+    private int i = 2;
     public int value() { return i; }
   }
   class Destination {
